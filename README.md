@@ -11,7 +11,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 - Enable developers to use pre-built functionality without reinventing the wheel. 
   
 ### 2. How It Works   
-1. A client (e.g., your application or web browser) sends a **request** to a server via the API. 
+1. A client (e.g., your application or web browser) sends a **request** to a server via the API.  
 2. The server processes the request and sends back a **response**, often in formats like **JSON** or **XML**.
  
 ### 3. Types of APIs
