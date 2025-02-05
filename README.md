@@ -20,7 +20,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 - **Library/Framework APIs**: Allow apps to use functions of a programming library (e.g., TensorFlow, NumPy).
 
 ### 4. Common Uses
-- **Social Media**: Access data (like tweets or posts) from platforms like Twitter or Facebook.
+- **Social Media**: Access data (like tweets or posts) from platforms like Twitter or Facebook. 
 - **Payments**: Integrate payment services like PayPal or Stripe.
 - **Maps**: Embed maps or geolocation services using Google Maps API.
 - **AI/ML Services**: Use pre-trained AI models via APIs like OpenAI or AWS AI.
