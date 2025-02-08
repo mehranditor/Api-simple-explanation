@@ -31,5 +31,5 @@ If you use an app to book a flight:
 2. The API fetches real-time flight details, prices, and availability. 
 
 ---
-
+ 
 APIs make it easier for applications to "talk" to each other and share resources, enhancing functionality and integration.
