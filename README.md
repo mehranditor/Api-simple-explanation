@@ -23,7 +23,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 - **Social Media**: Access data (like tweets or posts) from platforms like Twitter or Facebook. 
 - **Payments**: Integrate payment services like PayPal or Stripe. 
 - **Maps**: Embed maps or geolocation services using Google Maps API.
-- **AI/ML Services**: Use pre-trained AI models via APIs like OpenAI or AWS AI.
+- **AI/ML Services**: Use pre-trained AI models via APIs like OpenAI or AWS AI. 
 
 ### 5. Example
 If you use an app to book a flight:
