@@ -28,7 +28,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 ### 5. Example
 If you use an app to book a flight:
 1. The app interacts with the airline's API.
-2. The API fetches real-time flight details, prices, and availability.
+2. The API fetches real-time flight details, prices, and availability. 
 
 ---
 
