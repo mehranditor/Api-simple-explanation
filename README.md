@@ -16,7 +16,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
  
 ### 3. Types of APIs 
 - **Web APIs**: Communicate over the internet (e.g., REST APIs, GraphQL).
-- **Operating System APIs**: Allow apps to interact with the OS (e.g., Android, Windows).
+- **Operating System APIs**: Allow apps to interact with the OS (e.g., Android, Windows). 
 - **Library/Framework APIs**: Allow apps to use functions of a programming library (e.g., TensorFlow, NumPy).
  
 ### 4. Common Uses
