@@ -7,7 +7,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 ## Key Points About APIs
  
 ### 1. Purpose  
-- Allow software systems to connect and interact.
+- Allow software systems to connect and interact. 
 - Enable developers to use pre-built functionality without reinventing the wheel.  
    
 ### 2. How It Works   
